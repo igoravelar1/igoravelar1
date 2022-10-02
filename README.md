@@ -12,7 +12,7 @@
   <img align="center" alt="igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="igor-MySQL" height="30" width="40" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/MySQL-logo-17DB4E5FD6-seeklogo.com.png">
    <img align="center" alt="igor-php" height="30" width="40" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/Webysther_20160423_-_Elephpant.svg.png">
-  <img align="center" alt="igor-php" height="30" width="40" src=""https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/linux_win.png">
+  <img align="center" alt="igor-php" height="30" width="40" src="https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/linux_win.png">
   
   
 
