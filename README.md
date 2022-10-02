@@ -4,15 +4,16 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igoravelar21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoravelar21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 <div style="display: inline_block"><br>
-  <img align="center" alt="igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="igor-xampp" height="30" width="30" src="https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/favicon.ico">
-  <img align="center" alt="igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="igor-MySQL" height="30" width="40" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/MySQL-logo-17DB4E5FD6-seeklogo.com.png">
-   <img align="center" alt="igor-php" height="30" width="40" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/Webysther_20160423_-_Elephpant.svg.png">
-  <img align="center" alt="igor-php" height="30" width="30" src="https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/linux_win.png">
+  <img align="center" alt="igor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="igor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="igor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="igor-xampp" height="40" width="40" src="https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/favicon.ico">
+  <img align="center" alt="igor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="igor-MySQL" height="40" width="50" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/MySQL-logo-17DB4E5FD6-seeklogo.com.png">
+   <img align="center" alt="igor-php" height="40" width="50" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/Webysther_20160423_-_Elephpant.svg.png">
+  <img align="center" alt="igor-php" height="40" width="40" src="https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/linux_win.png">
   
   
 
