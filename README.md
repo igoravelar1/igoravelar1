@@ -8,10 +8,12 @@
   <img align="center" alt="igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="igor-xampp" height="30" width="30" src="https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/favicon.ico">
   <img align="center" alt="igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="igor-MySQL" height="30" width="40" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/MySQL-logo-17DB4E5FD6-seeklogo.com.png">
    <img align="center" alt="igor-php" height="30" width="40" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/Webysther_20160423_-_Elephpant.svg.png">
-  <img align="center" alt="igor-xampp" height="30" width="30" src="https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/favicon.ico">
+  <img align="center" alt="igor-php" height="30" width="40" src=""https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/linux_win.png">
+  
   
 
   
