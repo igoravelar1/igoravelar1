@@ -6,12 +6,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="igor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" &emsp;>
+  <img align="center" alt="igor-Js" height="40" width="50" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/logo-js.png">
   <img align="center" alt="igor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="igor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" &emsp;>
-  <img align="center" alt="igor-xampp" height="40" width="40" src="https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/favicon.ico" &emsp;>
+  <img align="center" alt="igor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="igor-xampp" height="40" width="40" src="https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/favicon.ico">
   <img align="center" alt="igor-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" hspace="">
-  <img align="center" alt="igor-mariadb&mysql" height="60" width="70" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/mariadb-and-mysql.png" hspace="" border="2" border-color=Grey;>
+  <img align="center" alt="database" height="40" width="50" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/database.png hspace="">
    <img align="center" alt="igor-php" height="40" width="50" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/Webysther_20160423_-_Elephpant.svg.png" hspace="5">
   <img align="center" alt="igor-php" height="40" width="40" src="https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/linux_win.png" hspace="5">
   
