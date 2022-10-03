@@ -6,7 +6,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="igor-Js" height="45" width="80" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/logo-js.png">
+  <img align="center" alt="igor-Js" height="45" width="80" src="https://github.com/igoravelar21/igoravelar21/blob/main/icons/logo-js%20(1).png">
   <img align="center" alt="igor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="igor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="igor-xampp" height="40" width="40" src="https://raw.githubusercontent.com/igoravelar21/igoravelar21/main/icons/favicon.ico">
