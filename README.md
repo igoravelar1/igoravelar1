@@ -1,7 +1,7 @@
 ## Olá, eu sou Igor Avelar, Apaixonado pela tecnologia!
 <div align="center">
   <a href="https://github.com/igoravelar21">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igoravelar21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src=" https://github-readme-stats.vercel.app/api?igoravelar21=anuraghazra&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoravelar21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
