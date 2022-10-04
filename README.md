@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/igoravelar21">
   <img height="150em" src=" https://github-readme-stats.vercel.app/api?igoravelar21=anuraghazra&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?igoravelar21=anuraghazra&repo=convoychat"/>
 </div>
   
 <div style="display: inline_block"><br>
