@@ -1,8 +1,8 @@
 ## Olá, eu sou Igor Avelar, Apaixonado pela tecnologia!
 <div align="center">
   <a href="https://github.com/igoravelar21">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?igoravelar21=anuraghazra&show_icons=true&theme=dark"/>
-  <img height="150em" src=""/>
+  <img height="150em" src="#"/>
+  <img height="150em" src="#"/>
 </div>
   
 <div style="display: inline_block"><br>
